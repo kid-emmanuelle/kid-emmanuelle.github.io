@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bea Hacker
+* source:	https://sketchfab.com/3d-models/bea-hacker-7ed29a6edd144863a44aa929912fa5d8
+* author:	pyeerz (https://sketchfab.com/pyeerz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bea Hacker" (https://sketchfab.com/3d-models/bea-hacker-7ed29a6edd144863a44aa929912fa5d8) by pyeerz (https://sketchfab.com/pyeerz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
